@@ -1,5 +1,5 @@
 Name:		texlive-biblatex-lncs
-Version:	62937
+Version:	65280
 Release:	1
 Summary:	BibLaTeX style for Springer Lecture Notes in Computer Science
 Group:		Publishing
