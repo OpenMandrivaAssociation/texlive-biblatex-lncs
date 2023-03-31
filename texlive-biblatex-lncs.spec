@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-lncs
 Version:	65280
-Release:	1
+Release:	2
 Summary:	BibLaTeX style for Springer Lecture Notes in Computer Science
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-lncs
